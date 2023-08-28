@@ -1,0 +1,35 @@
+button {
+  display: block;
+  margin: 20px auto;
+  background-color: white;
+  border: 3px solid rgb(43, 43, 43);
+  border-radius: 15px;
+  padding: 10px 20px;
+  font-size: 20px;
+  transition: 0.3s;
+}
+
+button:hover {
+  background-color: rgb(43, 43, 43);
+  color: white;
+}
+
+.hr {
+  border: none;
+  height: 1.5px;
+  background-color: rgb(222, 222, 222);
+  margin: 25px 40px;
+}
+
+div {
+  float: left;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background-color: cornflowerblue;
+  margin: 10px;
+  line-height: 60px;
+  text-align: center;
+  font-weight: bold;
+  color: white;
+}
